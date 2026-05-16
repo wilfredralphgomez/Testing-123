@@ -1,8 +1,8 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       464151496818832385
-  title:        ""      # testing 123
-  author:       ""      # WILFRED RALPH G. GOMEZ
+  wokwi_id:     464151496818832385       
+  title:        "testing 123"      
+  author:       "WILFRED RALPH G. GOMEZ"      # WILFRED RALPH G. GOMEZ
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
